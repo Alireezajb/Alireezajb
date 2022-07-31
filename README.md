@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alireezajb
+- 👋 Hi, I’m alireza jaberi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ 
+- 📫 you can  reach me in instagram : alireezajb
 
